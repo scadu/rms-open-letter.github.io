@@ -1862,7 +1862,6 @@ Free Software Contributor)
 1. Lukas Märdian (Ubuntu Core Developer)
 1. Lukas Pühringer (in-toto & TUF maintainer, @lukpueh)
 1. Lukasz Erecinski
-1. Łukasz Jendrysik
 1. Łukasz Langa (Python Software Foundation Fellow, Python 3.8 and 3.9 Release Manager)
 1. Luke Crouch
 1. Luke Faraone (Debian FTP master, Ubuntu developer, former English Wikipedia Arbitration Committee member)
